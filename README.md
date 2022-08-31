@@ -3,7 +3,8 @@
 <div align="center"> 
 
   <p> Na vibe dos anos 80, tive a ideia de criar o joguinho mais famoso do mundo! E que com certeza você conhece e já jogou! </p>
-  <p> Instruções: Para movimentar a peça, utilize as setas do teclado. Para alterar a posição da peça, utilize a tecla "W"
+  <p> Instruções: Para movimentar a peça, utilize as setas do teclado. Para alterar a posição da peça, utilize a tecla "W"</p>
+  <p> https://leticiamagrin.github.io/Tetriz-game/ </p>
   
 </div>
 
